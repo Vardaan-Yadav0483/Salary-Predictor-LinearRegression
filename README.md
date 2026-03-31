@@ -29,7 +29,7 @@ It helps in learning:
 Salary-Prediction/  
 │── project-report.pdf  
 │── requirements.txt  
-│── salary_data.csv  
+│── Salary_Data.csv  
 │── salary_predictor.py  
 │── salary_vs_experience.png    
 │── README.md
