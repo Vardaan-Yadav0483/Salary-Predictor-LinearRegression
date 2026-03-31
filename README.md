@@ -27,7 +27,7 @@ It helps in learning:
 
 # 📂Project Files  
 Salary-Prediction/  
-│── project_report.pdf  
+│── project-report.pdf  
 │── requirements.txt  
 │── salary_data.csv  
 │── salary_predictor.py  
